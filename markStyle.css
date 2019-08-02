@@ -1,0 +1,52 @@
+body {
+    background-color: lightblue;
+}
+
+/* COMPANY NAME */
+
+h1 {
+    background-color: brown;
+    border: 4px solid maroon;
+    border-radius: 6px;
+    font-family: Impact;
+    font-style: oblique;
+    font-weight: bolder;
+    text-transform: uppercase; 
+}
+
+h3 {
+    background-color: green;
+    color: lime;
+    border: 2px solid whitesmoke;
+    margin: 5px
+}
+
+#things {
+    background-color: blue;
+}
+
+#hrefs {
+    background-color: gold;
+}
+
+.markAja{
+    color: green;
+}
+
+.exlue {
+    color: blue;
+}
+
+.exite {
+    color: white;
+}
+
+/* FOOTER DETAILS */
+
+footer {
+    background-color: red;
+    border: 4px solid black;
+    border-radius: 6px;
+    padding: 0px;
+    margin-top: 20px;
+}
