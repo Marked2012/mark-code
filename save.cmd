@@ -1,5 +1,5 @@
 git add -A 
 git commit -m "[Mark] Save Data"
 git push
-Marked2012
-bhaskara@12345
+REM Marked2012
+REM bhaskara@12345
